@@ -1,0 +1,23 @@
+body{
+    background-image: url('8bitmario.gif');
+    background-size: cover;
+    
+    
+    
+    height: 0vh;
+    padding:0;
+    margin:0;
+}
+
+#border {
+    margin: 10px 0;
+    padding: 10px;
+    border: 10px solid rgb(185, 37, 44);
+    text-indent: 3ch;
+}
+
+.center {
+    text-align: center;
+
+  }
+
